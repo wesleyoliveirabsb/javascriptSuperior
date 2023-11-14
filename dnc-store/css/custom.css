@@ -1,0 +1,15 @@
+.btn-princ-banner{
+    display: inline-block;
+    text-align: center;
+    line-height: 2.6em;
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;    
+    background-color: #081b30;
+    color: white;
+}
+
+.btn-princ-banner:hover{
+    background-color: white;
+    color: #081b30;
+}
