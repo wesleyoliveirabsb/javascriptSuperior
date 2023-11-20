@@ -13,3 +13,7 @@
     background-color: white;
     color: #081b30;
 }
+
+.card-produto:hover{
+    box-shadow: 10px 10px;
+}
