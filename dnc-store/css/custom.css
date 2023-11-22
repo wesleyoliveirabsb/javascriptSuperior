@@ -17,3 +17,7 @@
 .card-produto:hover{
     box-shadow: 10px 10px;
 }
+
+.destaque{
+    box-shadow: 50px 40px;
+}
